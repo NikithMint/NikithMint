@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Python , DataStructures , SQL **
+- 💬 Ask me about ** React JS , HTML , CSS , JavaScript , Python , DataStructures , SQL **
 
 - 📫 How to reach me **nikithtankashala@gmail.com**
 
